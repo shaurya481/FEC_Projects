@@ -10,8 +10,11 @@ Make a portfolio of your own. You need to calculate the weight assigned to each 
 Questions Assigned :-
 
 Q1) How did you choose the stocks?
+
 Q2) What is the impact of increasing the number of stocks in the portfolio?
+
 Q3) Why are calculating the weights by optimization and not giving equal weightage to every stock?
+
 Q4) Which optimization techniques are used by Mutual Funds currently?
 
 Sectors to Consider Stocks 
