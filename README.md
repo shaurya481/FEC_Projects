@@ -13,12 +13,13 @@ Make a portfolio of your own. You need to calculate the weight assigned to each 
     Q4) Which optimization techniques are used by Mutual Funds currently?
 
 Sectors to Consider Stocks 
-  1.FMCG
-  2.Bank
-  3.IT
-  4.Pharma
-  5.Auto
-  6.Metal
+  
+      1.FMCG
+      2.Bank
+      3.IT
+      4.Pharma
+      5.Auto
+      6.Metal
 
 All the data is taken from :- https://finance.yahoo.com
 
